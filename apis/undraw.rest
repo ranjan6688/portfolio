@@ -1,0 +1,7 @@
+### REGISTER
+POST https://undraw.co/api/search HTTP/1.1
+content-type: application/json
+
+{
+  "query": "profile"
+}
